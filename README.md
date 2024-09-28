@@ -1,2 +1,7 @@
-# frontend-mentor-challenges
-This repository contains my solutions to various challenges from Frontend Mentor. Each challenge is designed to improve my front-end development skills
+# Frontend Mentor Challenges
+
+This repository contains various frontend mentor challenges. Check out the live demo of one of the projects:
+
+- [Recipe Page Main Live Demo](https://vaishscode.github.io/frontend-mentor-challenges/recipe-page-main/)
+
+Click the link above to see the output of the **Recipe Page Main** challenge directly in your browser.
