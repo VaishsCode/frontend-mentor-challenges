@@ -96,20 +96,20 @@ li {
   padding-left: 20px;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 316px) {
   .card {
-    background-color: hsl(0, 0%, 100%);
-    border: 0px !important;
-    border-radius: 0px !important;
-
-    width: 100% !important;
-    height: 100% !important;
-    margin: 10px auto;
-    position: relative;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    .card {
+      background-color: hsl(0, 0%, 100%);
+      border: 0 !important;
+      border-radius: 0 !important;
+      width: 100% !important;
+      height: auto !important; /* Set height to auto for better flexibility */
+      margin: auto; /* Add some margin for spacing */
+      position: relative;
+      top: 0;
+      left: 0;
+      right: 0;
+    }
   }
 }
 
