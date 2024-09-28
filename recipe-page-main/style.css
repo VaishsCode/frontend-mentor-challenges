@@ -2,23 +2,12 @@ body {
   background-color: #f3e5d8;
 }
 
-.main-div {
-  background-color: hsl(0, 0%, 100%);
-  width: 740px;
-  border-radius: 10px;
-  margin: auto;
-  position: relative;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-}
-
 .card {
   background-color: hsl(0, 0%, 100%);
   border: 0px !important;
-
-  margin: auto;
+  border-radius: 10px !important;
+  width: 800px;
+  margin: 20px auto;
   position: relative;
   top: 0;
   bottom: 0;
@@ -26,9 +15,12 @@ body {
   right: 0;
 }
 
+.content {
+  padding: 20px;
+}
 .card-img-top {
   border-radius: 10px;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 h1,
@@ -90,7 +82,7 @@ li {
 
 .attribution {
   font-size: 10px;
-  margin: 20px;
+  margin: 50px;
 }
 
 .Preparation > ul {
@@ -102,4 +94,24 @@ li {
 .Preparation > h6 {
   padding-top: 20px;
   padding-left: 20px;
+}
+
+@media only screen and (max-width: 375px) {
+  .card {
+    background-color: hsl(0, 0%, 100%);
+    border: 0px !important;
+
+    width: 100%;
+    margin: auto;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+}
+
+.card-body > h1,p {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
