@@ -100,8 +100,9 @@ li {
   .card {
     background-color: hsl(0, 0%, 100%);
     border: 0px !important;
+    border-radius: 0px !important;
 
-    width: 100%;
+    width: 100% !important;
     margin: auto;
     position: relative;
     top: 0;
@@ -111,7 +112,8 @@ li {
   }
 }
 
-.card-body > h1,p {
+.card-body > h1,
+p {
   margin-top: 20px;
   margin-bottom: 20px;
 }
