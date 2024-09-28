@@ -1,0 +1,105 @@
+body {
+  background-color: #f3e5d8;
+}
+
+.main-div {
+  background-color: hsl(0, 0%, 100%);
+  width: 740px;
+  border-radius: 10px;
+  margin: auto;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.card {
+  background-color: hsl(0, 0%, 100%);
+  border: 0px !important;
+
+  margin: auto;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.card-img-top {
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+h1,
+h2 {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+}
+
+.card-text {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: 16px;
+  font-weight: normal;
+  font-style: normal;
+  color: #514d4a;
+}
+
+.Preparation {
+  background-color: hsl(330, 100%, 98%);
+  border-radius: 10px;
+}
+
+.Preparation > ul li::marker {
+  color: hsl(332, 51%, 32%);
+}
+
+.Ingredients > ul li::marker {
+  color: hsl(14, 45%, 36%);
+}
+
+.Instructions > ol li::marker {
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
+  font-family: "Outfit", sans-serif;
+}
+
+span {
+  font-weight: bold;
+}
+
+h6 {
+  color: hsl(332, 51%, 32%);
+  font-weight: bold;
+}
+
+h2 {
+  color: hsl(14, 45%, 36%);
+}
+
+li {
+  color: #514d4a;
+  padding-left: 15px;
+}
+
+.quantity {
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
+  padding-left: 20%;
+}
+
+.attribution {
+  font-size: 10px;
+  margin: 20px;
+}
+
+.Preparation > ul {
+  margin: 30px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.Preparation > h6 {
+  padding-top: 20px;
+  padding-left: 20px;
+}
