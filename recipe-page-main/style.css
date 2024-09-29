@@ -18,6 +18,7 @@ body {
 .content {
   padding: 20px;
 }
+
 .card-img-top {
   border-radius: 10px;
   margin-top: 0px;
@@ -96,20 +97,18 @@ li {
   padding-left: 20px;
 }
 
-@media (max-width: 316px) {
+@media (max-width: 375px) {
   .card {
-    .card {
-      background-color: hsl(0, 0%, 100%);
-      border: 0 !important;
-      border-radius: 0 !important;
-      width: 100% !important;
-      height: auto !important; /* Set height to auto for better flexibility */
-      margin: auto; /* Add some margin for spacing */
-      position: relative;
-      top: 0;
-      left: 0;
-      right: 0;
-    }
+    background-color: hsl(0, 0%, 100%);
+    border: 0 !important;
+    border-radius: 0 !important;
+    width: 100% !important;
+    height: auto !important;
+    margin: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
   }
 }
 
@@ -117,19 +116,4 @@ li {
 p {
   margin-top: 20px;
   margin-bottom: 20px;
-}
-
-@media (max-width: 600px) {
-  .card {
-    background-color: hsl(0, 0%, 100%);
-    border: 0 !important;
-    border-radius: 0 !important;
-    width: 100% !important;
-    height: auto !important; /* Set height to auto for better flexibility */
-    margin: auto; /* Add some margin for spacing */
-    position: relative;
-    top: 0;
-    left: 0;
-    right: 0;
-  }
 }
