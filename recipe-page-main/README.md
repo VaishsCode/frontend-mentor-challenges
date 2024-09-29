@@ -89,4 +89,4 @@ In the future, I would like to focus more on improving accessibility features an
 
 ## Acknowledgments
 
-I want to thank the Frontend Mentor community for providing valuable resources that helped me refine my skills and understand best practices in web development.
+I sincerely appreciate Frontend Mentor for offering this challenge. It has been an excellent platform for honing my skills and gaining practical experience in web development.
