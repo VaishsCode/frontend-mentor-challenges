@@ -5,7 +5,7 @@ body {
 .main-div {
   width: 30vw;
   background-color: #1f1f1f;
-  border-radius: 5px;
+  border-radius: 10px;
   padding-bottom: 30px;
   margin: 20px auto;
 }
@@ -62,9 +62,9 @@ p {
   text-decoration: none;
   font-size: 14px;
   font-weight: bold;
-  padding: 15px;
-  border-radius: 5px;
-  width: 22vw;
+  padding: 20px;
+  border-radius: 10px;
+  width: 20vw;
   margin: auto;
 }
 
@@ -79,6 +79,6 @@ a:hover {
   }
 
   .links > a {
-    width: 75vw;
+    width: 65vw;
   }
 }
