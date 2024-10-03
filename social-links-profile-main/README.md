@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the Social Links Profile](./screenshot.jpg)
+![Screenshot of the Social Links Profile](./assets/Frontend-Mentor-Social-links-profile-Solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Solution](https://github.com/VaishsCode/frontend-mentor-challenges/tree/main/social-links-profile-main)
+- Live Site URL: [View Live Site](https://vaishscode.github.io/frontend-mentor-challenges/social-links-profile-main/)
 
 ## My process
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-Through this project, I learned how to effectively structure a simple web page using HTML and CSS. I became more comfortable with using Flexbox for layout and applying responsive design principles to ensure the site looks good on various devices.
+While working on this social media profile link project, I learned how to effectively create a clean, minimalistic profile card that displays a user's information and social media links.
 
 # Continued Development
 
