@@ -43,11 +43,7 @@ Users should be able to:
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
-
-
 ### What I learned
-
-
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -58,8 +54,6 @@ Users should be able to:
   color: papayawhip;
 }
 ```
-
-
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
