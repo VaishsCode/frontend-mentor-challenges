@@ -3,6 +3,9 @@ body {
   font-family: "Figtree", sans-serif;
   height: 100%;
   margin: 0;
+}
+
+main {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -96,6 +99,6 @@ body {
   vertical-align: middle;
 }
 
-.attribution {
-  margin: 12px;
+footer {
+  margin: 0px;
 }
