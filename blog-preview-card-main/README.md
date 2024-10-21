@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Blog Preview Card Solution Screenshot](blog-preview-card-main/assets/Frontend-Mentor-Blog-preview-card-solution.png)
+![Blog Preview Card Solution Screenshot](./assets/Frontend-Mentor-Blog-preview-card-solution.png)
 
 ### Links
 
