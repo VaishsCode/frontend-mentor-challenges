@@ -1,0 +1,68 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  width: 1440px;
+  height: 1130px;
+  gap: 2rem;
+}
+
+.sub-container1 {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  gap: 2rem;
+}
+
+.sub-container2 {
+  display: grid;
+  grid-template-rows: 1.25fr 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.create-post {
+  background-color: #f9eee2;
+}
+.social-media {
+  background-color: #ffcd6a;
+}
+.write-content {
+  background-color: #7651dd;
+  grid-column: span 2;
+}
+.manage-accounts {
+  background-color: #ddd2fb;
+  grid-row: span 2;
+}
+.posting-schedule {
+  background-color: #fcfcfc;
+}
+.audience-growth {
+  background-color: #ffcd6a;
+}
+.followers {
+  background-color: #ffffff;
+}
+.grow-followers {
+  background-color: #7651dd;
+  grid-column: span 2;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin: 5px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
